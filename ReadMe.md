@@ -14,7 +14,7 @@ The eventName is a string and callBack is a function to be called once the event
 4. Run the test to track your progress by running "npm run test"
 
 Bonus:
-Implement unregister method and implement a unitest for it in file test\eventManager.test.js 
+Implement unregister method that unregister a specific callback for event name and implement a unitest for it in file test\eventManager.test.js.
 
 Good luck
 Elminda
