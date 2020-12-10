@@ -16,5 +16,6 @@ The eventName is a string and callBack is a function to be called once the event
 Bonus:
 Implement unregister method that unregister a specific callback for event name and implement a unitest for it in file test\eventManager.test.js.
 
-Good luck,<br>
+Good luck,
+
 Elminda
